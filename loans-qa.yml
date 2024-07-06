@@ -1,0 +1,22 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+        
+
+build:
+  version: "2.0"
+  
+
+cards:
+ message:  "Welcome to tharun banks product Loans Api"
+ contactDetails:
+   name: "dinesh kumar qa team"
+   email: "dinesh@tcs.com"
+ onCallSupport:
+  - (91)88888888888
+  - (91)99999999999
+
+  
+      
+

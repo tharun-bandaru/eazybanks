@@ -1,0 +1,13 @@
+
+build:
+  version: "3.0" 
+  
+accounts:
+  message: "Welcome to TharunBank accounts related local API's"
+  contactDetails:
+    name: "tharun bandaru"
+    email: "bandaritharun4@gmail.com"
+  onCallSupport:
+    -(555)555-1234
+    -(555)523-1345 
+

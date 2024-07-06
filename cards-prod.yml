@@ -1,0 +1,16 @@
+
+build:
+  version: "3.0"
+
+cards:
+ message:  "Welcome to tharun banks product Cards Api"
+ contactDetails:
+   name: "yogendra"
+   email: "yogendra@tcs.com"
+ onCallSupport:
+  - (91)7777777777
+  - (91)6666666666
+
+  
+      
+

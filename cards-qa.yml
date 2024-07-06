@@ -1,0 +1,16 @@
+
+build:
+  version: "2.0"
+  
+cards:
+ message:  "Welcome to tharun banks qa team Cards Api"
+ contactDetails:
+   name: "ram koneda"
+   email: "ram@tcs.com"
+ onCallSupport:
+  - (91)8888888888
+  - (91)9999999999
+
+  
+      
+

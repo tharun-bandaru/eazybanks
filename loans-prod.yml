@@ -1,0 +1,18 @@
+
+
+build:
+  version: "3.0"
+  
+
+cards:
+ message:  "Welcome to tharun banks product Loans Api"
+ contactDetails:
+   name: "vivek kumar from prod team"
+   email: "vivkekumar@tcs.com"
+ onCallSupport:
+  - (91)7777777777
+  - (91)6666666666
+
+  
+      
+

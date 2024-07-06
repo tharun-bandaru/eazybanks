@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0" 
+  
+accounts:
+  message: "Welcome to TharunBank accounts related Production API's"
+  contactDetails:
+    name: "Rajesh Varama prod lead"
+    email: "rajeshvarma@gmail.com"
+  onCallSupport:
+    -(91)3433433434
+    -(555)534345343
