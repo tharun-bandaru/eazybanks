@@ -3,7 +3,7 @@ build:
   version: "3.0" 
   
 accounts:
-  message: "Welcome to TharunBank accounts related local API's"
+  message: "Welcome to TharunBank accounts related docker API's"
   contactDetails:
     name: "tharun bandaru"
     email: "bandaritharun4@gmail.com"
