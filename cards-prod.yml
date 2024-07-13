@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 cards:
- message:  "Welcome to tharun banks to local prod Cards Api"
+ message:  "Welcome to tharun banks to docker prod Cards Api"
  contactDetails:
    name: "yogendra"
    email: "yogendra@tcs.com"
