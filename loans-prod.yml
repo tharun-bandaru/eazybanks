@@ -5,7 +5,7 @@ build:
   
 
 cards:
- message:  "Welcome to tharun banks to production Loans Api"
+ message:  "Welcome to tharun banks to production local Loans Api"
  contactDetails:
    name: "vivek kumar from prod team"
    email: "vivkekumar@tcs.com"
