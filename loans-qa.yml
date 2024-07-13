@@ -9,7 +9,7 @@ build:
   
 
 cards:
- message:  "Welcome to tharun banks qa team Loans Api"
+ message:  "Welcome to tharun banks qa team local Loans Api"
  contactDetails:
    name: "dinesh kumar qa team"
    email: "dinesh@tcs.com"
