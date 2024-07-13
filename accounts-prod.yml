@@ -3,7 +3,7 @@ build:
   version: "1.0" 
   
 accounts:
-  message: "Welcome to TharunBank accounts related to Prod API's"
+  message: "Welcome to TharunBank accounts related to local Prod API's"
   contactDetails:
     name: "Rajesh Varama prod lead"
     email: "{cipher}15dbd4c0b4a436c14d7929cf15b56a940f6039df17c65a0597fff8838fd757da3f8762d08b0b7c431e49e421d6deb21e"
